@@ -12,10 +12,6 @@ last_name: Jiang
 # Pronouns (optional)
 pronouns: she/her
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -27,40 +23,32 @@ role: Master Student
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
+# profiles:
+  # - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+  # - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+  # - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
+  # - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
+  # - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+  # - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  # - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Health Engineering
+  - Microbiology
+  - Environmental Data Sciences & System Analysis 
+  - Antibiotic Resistance
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: MS Civil and Environmental Engineering
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -70,8 +58,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Biological Sciences
+    institution: University of Liverpool
+                 Xi'an Jiaotong-Liverpool University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
