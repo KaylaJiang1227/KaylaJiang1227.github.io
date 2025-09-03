@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2025-09-03
 type: landing
@@ -24,14 +23,12 @@ sections:
         size: medium
         shape: circle
       background:
-        color: ""
-        image: ""
-        css_style: "background: linear-gradient(to bottom, #e6e6fa, #ffffff);"
+        # 使用 CSS 样式实现渐变
+        css_class: "bg-gradient"
 
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
       text: |-
         I work at the intersection of **environmental microbiology** and **public health**, with current projects including:  
         - Hospital wastewater AMR surveillance  
@@ -40,63 +37,7 @@ sections:
 
         I'm always open to collaborations and discussions!
     design:
-      columns: '1'
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: post
-      count: 5
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: desc
-    design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: "1"
+---
 ---
 
