@@ -59,3 +59,7 @@ sitemap:
 params:
   custom_css: ["css/custom.css"]
 
+
+params:
+  custom_css: ["css/custom.css"]
+
