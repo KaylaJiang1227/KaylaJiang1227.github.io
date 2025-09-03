@@ -14,11 +14,9 @@ sections:
     
         Hi, I'm **Kayla Jiang**, a Master's student in **Environmental Engineering at Stanford University**.  
 
-        My research focuses on **Environmental Epidemiology, Environmental Systems Analysis, Microbial Ecology, and Global Health**.    
-         I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and to contribute to the development of **sustainable technologies**.
-      button:
-        text: 📄 Download CV
-        url: uploads/resume.pdf
+        My research focuses on Environmental Epidemiology, Environmental Systems Analysis, Microbial Ecology, and Global Health.    
+        I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and to contribute to the development of **sustainable technologies**.
+
     design:
       avatar:
         size: medium
@@ -65,4 +63,5 @@ sections:
         Feel free to reach out if you'd like to connect!
     design:
       columns: "1"
+    
 ---
