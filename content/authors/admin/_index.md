@@ -25,13 +25,13 @@ role: Master Student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
 interests:
-  - Environmental Health Engineering
+  - Environmental Health
   - Microbiology
-  - Environmental Data Sciences & System Analysis 
+  - Environmental Data Sciences
   - Antibiotic Resistance
 
 education:
-  - area: MS Civil and Environmental Engineering
+  - area: MS Environmental Engineering
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -44,7 +44,6 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biological Sciences
     institution: University of Liverpool
-                 Xi'an Jiaotong-Liverpool University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
