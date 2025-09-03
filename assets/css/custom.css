@@ -1,5 +1,9 @@
-/* 去掉 Hero 默认背景图，改成淡紫到白的渐变 */
+/* 去掉 Hugo 默认 Hero 背景，改成淡紫到白渐变 */
 .hero-section {
-  background-image: none !important;
+  background: linear-gradient(to bottom, #e6e6fa, #ffffff) !important;
+}
+
+/* 确保暗色模式下也用渐变（否则 fallback 黑色） */
+.dark .hero-section {
   background: linear-gradient(to bottom, #e6e6fa, #ffffff) !important;
 }
