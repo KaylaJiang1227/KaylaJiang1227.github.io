@@ -1,5 +1,0 @@
-/* 去掉 Hero 背景图 */
-.hero-section {
-  background-image: none !important;
-  background-color: grey !important;  
-}
