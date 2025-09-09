@@ -1,9 +1,10 @@
 ---
-title: "Placeholder Journal Article"
+title: "Bioleaching Extraction of Valuable Metal from E-wastes: A Mini Review"
 authors:
-- Kayla Jiang
-date: 2025-01-01
-publication_types: ["2"]  # 2 = journal article
-publication: "Demo Journal"
-abstract: "This is a placeholder article to keep Hugo build happy."
+- Mingjun Jiang
+- Siyu He
+- Yongkui Zhang*
+date: 2023-09-26
+publication_types: ["2"]
+publication: "*Recent Innovations in Chemical Engineering*"
 ---
