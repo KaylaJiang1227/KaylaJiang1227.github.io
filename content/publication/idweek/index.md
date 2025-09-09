@@ -7,7 +7,7 @@ authors:
 - "Mingjun Jiang"
 - "et al."
 date: 2025-10-01
-publication_types: ["3"]  # 3 = conference paper
+publication_types: ["3"]  
 publication: "*IDWeek 2025*"
 url_pdf: "/uploads/Abstract_IDWeek_2025.pdf"
 featured: false
