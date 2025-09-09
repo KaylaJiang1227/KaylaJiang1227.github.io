@@ -1,10 +1,10 @@
 ---
 title: "Wastewater-Based Surveillance for Antimicrobial Resistance in a Northern California Acute Care Hospital, November 2024 to April 2025"
 authors:
-- Erika Viana Cardenas
-- Gabriela Rodriguez-Nava
-- Andrew Zulli
-- "**Mingjun Jiang**"
+- Cardenas, E. V.
+- Rodriguez-Nava, G.
+- Zulli, A.
+- Mingjun Jiang
 - et al.
 date: 2025-10-01  
 publication_types: ["3"]  # 3 = conference paper
