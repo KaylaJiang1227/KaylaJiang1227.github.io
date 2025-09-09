@@ -25,9 +25,9 @@ sections:
         css_class: "bg-gradient"
 
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Papers
+      title: Publications
       filters:
         folders: ["publication"]
     design:
