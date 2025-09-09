@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: "Publications"
 type: page
 ---
 
@@ -7,7 +7,7 @@ type: page
 
 1. Cardenas, E. V. †, **Mingjun Jiang** †, Alexandria Boehm, Jorge L. Salinas et al. (2025).  
    *Hospital Wastewater-based Epidemiology and Antimicrobial Resistance Surveillance: A Scoping Review Linking Wastewater and Clinical Data*.  
-   **Journal of Infectious Disease** (Under review)  
+   **Journal of Infectious Disease** (Under review)
 
 2. **Mingjun Jiang**, Siyu He, Yongkui Zhang* (2023).  
    *Bioleaching Extraction of Valuable Metal from E-wastes: A mini Review*.  
@@ -30,7 +30,7 @@ type: page
 
 ---
 
-## Conference Presentations
+## Conference Abstracts
 
 1. Cardenas, E. V., Rodriguez-Nava, G., Zulli, A., **Jiang, M.** et al. (2025).  
    *Wastewater-Based Surveillance for Antimicrobial Resistance in a Northern California Acute Care Hospital, November 2024 to April 2025*.  
