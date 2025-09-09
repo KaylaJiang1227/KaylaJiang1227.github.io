@@ -8,7 +8,6 @@ date: 2025-01-01
 doi: "10.1016/j.bbrc.2025.151875"
 publication_types: ["2"]  # 2 = journal article
 publication: "*Biochemical and Biophysical Research Communications*"
-url_pdf: "/uploads/Jiang_2025_IP3R.pdf"
 featured: true
 type: publication
 ---
