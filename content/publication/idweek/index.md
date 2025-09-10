@@ -10,7 +10,7 @@ date: 2025-10-01
 publication_types: ["2"]  
 publication: "*IDWeek 2025*"
 url_pdf: "/uploads/Abstract_IDWeek_2025.pdf"
-featured: false
+featured: True
 type: publication
 ---
 
