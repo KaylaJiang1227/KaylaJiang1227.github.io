@@ -6,7 +6,7 @@ authors:
 - "Zulli, A."
 - "Mingjun Jiang"
 date: 2025-10-01
-publication_types: ["2"]  
+publication_types: ["3"]  
 publication: "*IDWeek 2025*"
 url_pdf: "/uploads/Abstract_IDWeek_2025.pdf"
 featured: false
