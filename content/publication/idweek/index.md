@@ -5,8 +5,9 @@ authors:
 - "Rodriguez-Nava, G."
 - "Zulli, A."
 - "Mingjun Jiang"
+- “et al.”
 date: 2025-10-01
-publication_types: ["1"]  
+publication_types: ["3"]  
 publication: "*IDWeek 2025*"
 url_pdf: "/uploads/Abstract_IDweek_2025.pdf"
 featured: false
