@@ -9,6 +9,6 @@ description: |
   - Investigated microbial community dynamics in a photo-sequencing batch reactor (PSBR) for wastewater nitrogen removal.  
   - [Summer Research Report (PDF)](/uploads/PKU_summer_research_report_2023.pdf)
 _build:
-render: never
-list: always
+  render: never
+  list: always
 ---
