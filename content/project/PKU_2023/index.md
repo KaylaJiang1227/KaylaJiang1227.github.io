@@ -10,5 +10,5 @@ image:
   filename: featured.png
 ---
 
-📄 [Summer Research Report (PDF)](/uploads/PKU_summer_research_report_2023.pdf)
+📄 [Summer Research Report (PDF)](/uploads/PKU_2023.pdf)
 
