@@ -27,7 +27,7 @@ role: Master Student
 
 interests:
   - Environmental Health
-  - Microbiology
+  - Environmental Microbiology
   - Environmental Data Sciences
   - Antibiotic Resistance
 
