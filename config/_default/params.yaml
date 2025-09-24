@@ -31,6 +31,7 @@ header:
 
 # Site footer
 footer:
+  show_powered_by: false
   copyright:
     notice: '© {year} Kayla. This work is licensed under {license}'
     license:
