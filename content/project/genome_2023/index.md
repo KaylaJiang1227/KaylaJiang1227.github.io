@@ -3,9 +3,9 @@ title: "Genomic Features of Bacteria Linked to Colorectal Cancer Compared to Hea
 summary: "Comparative genomics study of colorectal cancer-associated bacteria"
 date: 2023-04-01
 tags:
-  - Microbiome
-  - Cancer
   - Genomics
+  - Cancer
+  - Microbiology
 image:
   filename: featured.png
 ---
