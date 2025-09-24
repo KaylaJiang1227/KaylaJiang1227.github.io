@@ -2,7 +2,7 @@
 title: "Regulation of gating by leaflet and autoinhibitory domains in mouse type 1 IP3 receptors"
 authors:
 - "Kozo Hamada*"
-- "**Mingjun Jiang**"
+- "<b>Mingjun Jiang</b>"
 - et al.
 date: 2025-01-01
 doi: "10.1016/j.bbrc.2025.151875"
