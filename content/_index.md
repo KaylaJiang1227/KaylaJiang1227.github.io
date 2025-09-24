@@ -33,15 +33,6 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: experience
-    content:
-      title: Experience
-      filters:
-        folders: ["experience"]
-    design:
-      view: article-grid
-      columns: 1
 
   - block: collection
     id: projects
@@ -58,9 +49,8 @@ sections:
     content:
       title: "More About Me"
       text: |-
-        Outside of research, I enjoy **design, photography, and organizing community events**.  
-        I’m also passionate about **science communication** and building bridges between academia and the public.  
-        Feel free to reach out if you'd like to connect!
+        Outside of research, I love **sports like swimming, volleyball, and cycling**, as well as **painting, dancing, music, and movies**. One of my favorite things is going swimming or hiking with friends!  
+
     design:
       columns: "1"
     
