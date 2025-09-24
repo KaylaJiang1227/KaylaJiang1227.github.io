@@ -1,6 +1,6 @@
 ---
 title: "Genomic Features of Bacteria Linked to Colorectal Cancer Compared to Healthy Colon"
-summary: "Comparative genomics study of colorectal cancer-associated bacteria"
+summary: "XJTLUIndependent · Course Project"
 date: 2023-04-01
 tags:
   - Genomics
