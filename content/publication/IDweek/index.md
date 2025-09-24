@@ -4,7 +4,7 @@ authors:
 - "Cardenas, E. V."
 - "Rodriguez-Nava, G."
 - "Zulli, A."
-- "**Mingjun Jiang**"
+- "<b>Mingjun Jiang †</b>"
 date: 2025-04-22
 publication_types: ["1"]
 publication: "Proceedings of *IDWeek 2025*, Atlanta, GA"
