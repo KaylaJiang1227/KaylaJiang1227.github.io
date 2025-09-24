@@ -28,8 +28,8 @@ role: Master Student
 interests:
   - Environmental Health
   - Environmental Microbiology
+  - Wastewater-based epidemiology
   - Environmental Data Sciences
-  - Antibiotic Resistance
 
 education:
   - area: MS Environmental Engineering
