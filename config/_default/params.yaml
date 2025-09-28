@@ -32,7 +32,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Kayla. This work is licensed under {license}'
+    notice: '© {year} Kayla. All rights reserved.'
     license:
       allow_derivatives: false
       share_alike: true
