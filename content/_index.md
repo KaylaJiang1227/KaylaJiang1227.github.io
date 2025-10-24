@@ -18,9 +18,9 @@ sections:
         I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and to contribute to the development of **sustainable technologies**.
 
     ### Labs
-- 🧬 [Hospital Infection Prevention and Control Team](https://infectionprevention.stanford.edu/)
-- 🧫 [Boehm Lab](https://web.stanford.edu/~aboehm/website.htm)
-- 💧 [Davis Poop Group](https://davisgroup.stanford.edu/)
+    - 🧬 [Hospital Infection Prevention and Control Team](https://infectionprevention.stanford.edu/)
+    - 🧫 [Boehm Lab](https://web.stanford.edu/~aboehm/website.htm)
+    - 💧 [Davis Poop Group](https://davisgroup.stanford.edu/)
 
 
 
