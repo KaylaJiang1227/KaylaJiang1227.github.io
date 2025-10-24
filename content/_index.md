@@ -15,12 +15,7 @@ sections:
         Hi, I'm **Kayla Jiang**, a Master's student in **Environmental Engineering at Stanford University**.  
 
         My research focuses on Environmental Epidemiology, Environmental Systems Analysis, Microbial Ecology, and Global Health.    
-        I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and to contribute to the development of **sustainable technologies**.
-
-    ### Labs
-    - 🧬 [Hospital Infection Prevention and Control Team](https://infectionprevention.stanford.edu/)
-    - 🧫 [Boehm Lab](https://web.stanford.edu/~aboehm/website.htm)
-    - 💧 [Davis Poop Group](https://davisgroup.stanford.edu/)
+        I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and to contribute to the development of **sustainable technologies**. ###Labs 🧬 [Hospital Infection Prevention and Control Team](https://infectionprevention.stanford.edu/) 🧫[Boehm Lab](https://web.stanford.edu/~aboehm/website.htm) 💧 [Davis Poop Group](https://davisgroup.stanford.edu/)
 
 
 
