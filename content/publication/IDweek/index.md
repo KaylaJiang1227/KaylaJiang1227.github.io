@@ -10,8 +10,8 @@ authors:
 - "et al."
 date: 2025-04-22
 publication_types: ["1"]
-publication: "Proceedings of *IDWeek 2025*, Atlanta, GA"
-url_pdf: "/uploads/IDweekposter.pdf"
+publication: "Conference *IDWeek 2025*, Atlanta, GA"
+url_pdf: "/uploads/IDweek_ab.pdf"
 featured: true
 type: publication
 ---
