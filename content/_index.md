@@ -47,14 +47,14 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: markdown
-    id: about
-    content:
-      title: "More About Me"
-      text: |-
-        Outside of research, I love **sports like swimming, volleyball, and cycling**, as well as **painting, dancing, music, and movies**. One of my favorite things is going swimming or hiking with friends!  
+- block: markdown
+  id: about
+  content:
+    title: "More About Me & Fun Fact"
+    text: |-
+      Outside of research, I love **sports like hiking, swimming, volleyball, and cycling**, as well as **painting, dancing, music, and movies**. One of my favorite things is going swimming or hiking with friends!
 
-    design:
-      columns: "1"
-    
+      **Fun Fact:** My Chinese name, *Jiang Mingjun*, can be pronounced as “Jiao Mu Jun,” which sounds like the Chinese word for **yeast**. Because of this, my friends jokingly gave me the code name **“yeast”**—a surprisingly fitting coincidence given my interests in microbiology. As a result, yeast has become my favorite microorganism: although it is ubiquitous and often overlooked, it plays remarkably diverse and important roles in science, industry, and everyday life.
+  design:
+    columns: "1"
 ---
