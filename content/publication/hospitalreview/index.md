@@ -8,7 +8,7 @@ authors:
   - "Salinas, J. L."
   - "et al."
 date: 2025-08-01
-publication: "Journal of Infectious Diseases (Under Review)"
+publication: "Journal of Hospital Infections(Under Review)"
 publication_types: ["2"]  # 2 = Journal Article
 featured: true
 type: publication
