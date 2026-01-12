@@ -26,10 +26,11 @@ role: Master Student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
 interests:
-  - Environmental Health
-  - Environmental Microbiology
+  - Human and Environmental Health
+  - Environmental Microbiology & biotechnology
   - Wastewater-based epidemiology
-  - Environmental Data Sciences
+  - Microbial Genomic
+  - Data Sciences & AI4S
 
 education:
   - area: MS Environmental Engineering
