@@ -11,5 +11,5 @@ authors:
 - Salinas J
 date: 2026-01-10
 publication_types: ["2"]
-publication: "*Journal of One Health*(Ready for submission)" 
+publication: "One Health (Ready for submission)" 
 ---
