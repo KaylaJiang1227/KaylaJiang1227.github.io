@@ -33,6 +33,7 @@ sections:
       title: Publications
       filters:
         folders: ["publication"]
+      count: 999 
     design:
       view: citation
 
