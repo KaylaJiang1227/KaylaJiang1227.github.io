@@ -17,7 +17,7 @@ sections:
         My research focuses on Human and Enivronmental Health, Microbial Ecology, Microbiome, Bioengineering, and Environmental Epidemiology.    
         I am passionate about integrating **quantitative, data-driven approaches** with **experimental research** to better understand environmental systems and microbiome to contribute to the development of **sustainable technologies** and understanding of **human health**.
         ###Labs 🧬 [Hospital Infection Prevention and Control Team](https://infectionprevention.stanford.edu/) 🧫[Boehm Lab](https://web.stanford.edu/~aboehm/website.htm) 💧 [Davis Poop Group](https://davisgroup.stanford.edu/)
-
+        Check my work:[google scholar](https://scholar.google.com/citations?user=EsRcwbQAAAAJ&hl=en&oi=ao)
 
 
     design:
